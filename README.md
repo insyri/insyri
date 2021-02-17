@@ -13,7 +13,3 @@ anyways yeah lol this is my profile, i dont commit too much code but when i do i
 insyri#7314 | discord
 
 ![GitHub metrics](https://metrics.lecoq.io/insyri)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=insyri&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=insyri)
