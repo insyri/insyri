@@ -6,7 +6,7 @@ My main language is JavaScript, but I'm moving to TypeScript as of time of writi
 I'm also learning C while I'm at that, sooo yeah
 
 I make Discord Bots, Javascript including webpages, and fool around on machines with C.
-I'm a straight male and I dislike people who use their political oppression to oppress others with things that do not solve anything.
+I'm a straight male.
 
 anyways yeah lol this is my profile, i dont commit too much code but when i do it'll be more than a little.
 
