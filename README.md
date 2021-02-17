@@ -9,3 +9,5 @@ I make Discord Bots, Javascript including webpages, and fool around on machines 
 I'm a straight male and I dislike people who use their political oppression to oppress others with things that do not solve anything.
 
 anyways yeah lol this is my profile.
+
+insyri#7314 | discord
