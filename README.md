@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/insyri/insyri/main/gRM2D.png)
+![](https://raw.githubusercontent.com/insyri/insyri/main/gRM.png)
 [enable dark theme](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings)
 # hey, im insyri
 I started programming two years ago, self taught and brought myself here.
