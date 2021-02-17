@@ -11,3 +11,5 @@ I'm a straight male and I dislike people who use their political oppression to o
 anyways yeah lol this is my profile.
 
 insyri#7314 | discord
+
+![GitHub metrics](https://metrics.lecoq.io/insyri)
