@@ -17,13 +17,9 @@ insyri#7314 | discord
 ![](https://shields.io/badge/Operating%20System-Windows%2010-0078D6?logo=Windows&logoColor=white&style=for-the-badge)
 
 
-![](https://shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
+![](https://shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge) ![](https://shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 
-![](https://shields.io/badge/Javascript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
-
-![](https://shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge)
-
-![](https://shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![](https://shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge) ![](https://shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
 
 ![GitHub metrics](https://metrics.lecoq.io/insyri)
