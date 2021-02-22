@@ -12,4 +12,10 @@ anyways yeah lol this is my profile, i dont commit too much code but when i do i
 
 insyri#7314 | discord
 
+![](https://img.shields.io/badge/Code%20Editor-Visual%20Studio%20Code-blue?logo=visual-studio-code&style=for-the-badge)
+
+![](https://shields.io/badge/Typescript-blue?logo=typescript&logoColor=white&style=for-the-badge)
+![](https://shields.io/badge/C-A8B9CC?logo=c&logoColor=white&style=for-the-badge)
+![]()
+
 ![GitHub metrics](https://metrics.lecoq.io/insyri)
