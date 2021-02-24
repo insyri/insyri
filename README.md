@@ -21,5 +21,4 @@ insyri#7314 | discord
 
 ![](https://shields.io/badge/C-A8B9CC?logo=c&logoColor=black&style=for-the-badge) ![](https://shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
 
-
-![GitHub metrics](https://metrics.lecoq.io/insyri)
+![](https://camo.githubusercontent.com/f2fc76db99680b4630861e9989062ad2ae3c042b077922f81e8eb20cae9b9f08/68747470733a2f2f6d6574726963732e6c65636f712e696f2f696e73797269)
