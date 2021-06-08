@@ -1,5 +1,5 @@
 ![](https://raw.githubusercontent.com/insyri/insyri/fe861b5f276bcbe24b91ef24cb53c91c9a8e2ddd/gRM.svg)
-[enable dark theme](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings) **website is not finished by a long shot.**
+[enable dark theme](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings) | **[website](https://insyri.github.io/) is not finished by a long shot.**
 # hey, im insyri
 I started programming two years ago, self taught and brought myself here.
 My main language is JavaScript, but I'm moving to TypeScript as of time of writing this.
