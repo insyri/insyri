@@ -2,7 +2,7 @@
 [enable dark theme](https://docs.github.com/en/github/setting-up-and-managing-your-github-user-account/managing-your-theme-settings) | **[website](https://insyri.github.io/) is not finished by a long shot.** | [my gitlab](https://gitlab.com/insyri)
 # hey, i'm insyri :wave:
 
-I am a highschool student, self-taught computer programmer and a computer science passionate who resides in Florida, US. I only push to GitHub once I've made a significant progress to a project, that is why I may seem not-so-active on here, but most of my projects are private anyways and once I finish them, they will be made public. I also use GitHub as my pastebin and Google Docs replacement, usually in private gists, but some of them are public. My computer is a magical piece of shit that slows my development speed by a substantial ammount; I'm 4 months behind... so that's also why I would appear inactive.
+I am a highschool student, self-taught computer programmer and a computer science passionate who resides in Florida, US. I only push to GitHub once I've made a significant progress to a project, that is why I may seem not-so-active on here, but most of my projects are private anyways and once I finish them, they will be made public. I also use GitHub as my pastebin and Google Docs replacement, usually in private gists, but some of them are public. My computer is a magical piece of shit that slows my development speed by a substantial ammount; I'm 4 months behind... so... that's also why I would appear inactive.
 
 Some development tools, langauges, and services I use.
 
