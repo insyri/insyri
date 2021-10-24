@@ -23,7 +23,7 @@ detritus black
 
 Other programs I use to create stuff.
 
-![](https://shields.io/badge/Affinity%20Designer-05122A?logo=affinity-designer&logoColor=1B72BE&style=for-the-badge) ![](https://shields.io/badge/Roblox%20(Studio)-05122A?logo=roblox&style=for-the-badge)
+![](https://shields.io/badge/Affinity%20Designer-05122A?logo=affinity-designer&logoColor=1B72BE&style=for-the-badge) ![](https://shields.io/badge/Roblox%20Studio-05122A?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCjwhLS0gR2VuZXJhdG9yOiBBZG9iZSBJbGx1c3RyYXRvciAyMy4wLjUsIFNWRyBFeHBvcnQgUGx1Zy1JbiAuIFNWRyBWZXJzaW9uOiA2LjAwIEJ1aWxkIDApICAtLT4NCjxzdmcgdmVyc2lvbj0iMS4xIiBpZD0iTGF5ZXJfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiDQoJIHZpZXdCb3g9IjAgMCAxMjAgMTIwIiBzdHlsZT0iZW5hYmxlLWJhY2tncm91bmQ6bmV3IDAgMCAxMjAgMTIwOyIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+DQo8c3R5bGUgdHlwZT0idGV4dC9jc3MiPg0KCS5zdDB7ZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7ZmlsbDojMDA5RkZGO30NCjwvc3R5bGU+DQo8cGF0aCBjbGFzcz0ic3QwIiBkPSJNMjUuNSwwTDEyMCwyNS4zbC0xMC4yLDM4LjJMNTMuNCw0OC40bC0yLjksMTAuOEwxMi40LDQ5TDI1LjUsMHogTTk0LjYsMTE5LjlMMC4xLDk0LjZsMTAuMi0zOC4ybDU2LjMsMTUuMQ0KCWwyLjktMTAuOGwzOC4yLDEwLjJMOTQuNiwxMTkuOXoiLz4NCjwvc3ZnPg0K&style=for-the-badge)
 
 and soon I'll be using/learning...
 
