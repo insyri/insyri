@@ -8,7 +8,7 @@ Some development tools, langauges, and services I use.
 
 ![](https://img.shields.io/badge/Visual%20Studio%20Code-05122A?logo=visual-studio-code&logoColor=0078d7&style=for-the-badge) ![](https://shields.io/badge/Windows%2010-05122A?logo=windows&logoColor=0078D6&style=for-the-badge) ![](https://shields.io/badge/Typescript-05122A?logo=typescript&style=for-the-badge) ![](https://shields.io/badge/Javascript-05122A?logo=javascript&style=for-the-badge) ![](https://shields.io/badge/Rust-05122A?logo=rust&logoColor=e33c24&style=for-the-badge) ![](https://shields.io/badge/Lua-05122A?logo=lua&logoColor=2C2D72&style=for-the-badge) ![](https://shields.io/badge/LaTeX-05122A?logo=latex&logoColor=008080&style=for-the-badge) ![](https://shields.io/badge/Git-05122A?logo=git&style=for-the-badge) ![](https://shields.io/badge/Node.js-05122A?logo=node.js&style=for-the-badge) ![](https://shields.io/badge/Npm-05122A?logo=npm&style=for-the-badge) ![](https://shields.io/badge/Windows%20Terminal-05122A?logo=windows-terminal&style=for-the-badge) ![](https://shields.io/badge/Powershell-05122A?logo=powershell&style=for-the-badge) ![](https://shields.io/badge/GitHub-05122A?logo=github&style=for-the-badge) ![](https://shields.io/badge/GitLab-05122A?logo=gitlab&style=for-the-badge) ![](https://shields.io/badge/Stack%20Overflow-05122A?logo=stack-overflow&style=for-the-badge)
 
-Some NPM packages I love.
+Some packages I love.
 
 <!--
 detritus black
