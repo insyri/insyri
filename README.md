@@ -4,6 +4,8 @@
 
 I am a highschool student, self-taught computer programmer and a computer science passionate who resides in Florida, US. I only push to GitHub once I've made a significant progress to a project, that is why I may seem not-so-active on here, but most of my projects are private anyways and once I finish them, they will be made public. I also use GitHub as my pastebin and Google Docs replacement, usually in private gists, but some of them are public. My computer is a magical piece of sh█t that slows my development speed by a substantial amount; I'm 4 months behind... so... that's also why I would appear inactive.
 
+Update: I got a better computer! :D
+
 In the future, I plan to learn systems engineering, software development, software engineering, reverse engineering, and networking.
 
 As you could tell, I am a computer science passionate.
