@@ -1,6 +1,6 @@
 <!-- ![](https://raw.githubusercontent.com/insyri/insyri/fe861b5f276bcbe24b91ef24cb53c91c9a8e2ddd/gRM.svg) -->
 <!-- [dsc.bio/insyri](https://dsc.bio/insyri/) | [get a free vps](https://www.oracle.com/cloud/free/) -->
-:wave: hey, i'm insyri, a multilingual, software engineering, unproductive piece of shit student who resides in orlando, florida.
+:wave: hey, i'm insyri, a multilingual, software engineering, hobbyist highschool student who resides in orlando, florida.
 
 currently working on the [rsource project](https://github.com/rsource-open-source/).
 
