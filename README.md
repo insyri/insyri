@@ -1,6 +1,7 @@
 :wave: hey, i'm insyri, a multilingual, software engineering, hobbyist highschool student who resides in orlando, florida.
 
-currently working on the [rsource project](https://github.com/rsource-open-source/).
+currently working on the [rsource project](https://github.com/rsource-open-source/), a soon-to-be-open API client, and a secret project.
+<!-- currently working on the [rsource project](https://github.com/rsource-open-source/), [tpy](https://github.com/insyri/tpy) (no its not python), and a soon-to-be-open project. -->
 
 <details>
   <summary>🌌 socials</summary>
