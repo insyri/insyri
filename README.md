@@ -62,7 +62,16 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   
   [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml)
   
-  [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) 
+  [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
+
+  ## [simpleproxy](https://github.com/insyri/simpleproxy)
+
+  A configurable and simple proxy written in Go using GoFiber.
+
+  [![CI](https://github.com/insyri/simpleproxy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/simpleproxy/actions/workflows/ci.yml)
+
+  [![](https://shields.io/badge/Go-05122A?logo=go&style=for-the-badge)](https://go.dev/)
+
   <br>
 </details>
 
