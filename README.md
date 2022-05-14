@@ -52,7 +52,8 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   ## [tpy](https://github.com/insyri/tpy)
   A strongly typed Pylon API client. https://pylon.bot/
   
-  [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml)
+  [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml) [![CD](https://github.com/insyri/tpy/actions/workflows/cd.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/cd.yml)
+
   
   [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
 
