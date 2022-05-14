@@ -1,6 +1,6 @@
 :wave: hey, i'm insyri, a multilingual, software engineering, hobbyist highschool student who resides in orlando, florida.
 
-currently working on the [rsource project](https://github.com/rsource-open-source/), a soon-to-be-open API client, and a secret project.
+currently working on the [rsource project](https://github.com/rsource-open-source/), [tpy](https://github.com/insyri/tpy), and a vscode-extension/cli tool for [pylon](https://pylon.bot).
 <!-- currently working on the [rsource project](https://github.com/rsource-open-source/), [tpy](https://github.com/insyri/tpy) (no its not python), and a soon-to-be-open project. -->
 
 <details>
@@ -55,7 +55,7 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml) [![CD](https://github.com/insyri/tpy/actions/workflows/cd.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/cd.yml)
 
   
-  [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
+  [![](https://shields.io/badge/deno-05122A?logo=deno&style=for-the-badge)](https://deno.land/) [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
 
   ## [simpleproxy](https://github.com/insyri/simpleproxy)
 
