@@ -46,15 +46,16 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   [![](ImageLink)](Link)
   -->
   
-  <img align="right" width="150" src="https://pylon.bot/docs/img/pylon-icon.svg" />
+  <img align="right" width="150" src="https://raw.githubusercontent.com/insyri/tpy/main/.github/assets/pylon-dicon.png" />
   
   ## [tpy](https://github.com/insyri/tpy)
   A strongly typed Pylon API client. https://pylon.bot/
   
-  [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml) [![CD](https://github.com/insyri/tpy/actions/workflows/cd.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/cd.yml)
-
+  [![CI](https://github.com/insyri/tpy/actions/workflows/ci.yml/badge.svg)](https://github.com/insyri/tpy/actions/workflows/ci.yml)
   
-  [![](https://shields.io/badge/deno-05122A?logo=deno&style=for-the-badge)](https://deno.land/) [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
+  [![](https://shields.io/badge/deno-05122A?logo=deno&style=for-the-badge)](https://deno.land/)
+  [![](https://shields.io/badge/node.js-05122A?logo=node.js&style=for-the-badge)](https://nodejs.org/)
+  [![](https://shields.io/badge/typescript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
 
   ## [simpleproxy](https://github.com/insyri/simpleproxy)
 
