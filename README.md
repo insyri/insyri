@@ -46,7 +46,7 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   [![](ImageLink)](Link)
   -->
   
-  <img align="right" width="150" src="https://raw.githubusercontent.com/insyri/tpy/main/.github/assets/pylon-dicon.png" />
+  <img align="right" width="150" src="https://raw.githubusercontent.com/insyri/tpy/main/.github/assets/pylon.svg" />
   
   ## [tpy](https://github.com/insyri/tpy)
   A strongly typed Pylon API client. https://pylon.bot/
