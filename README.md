@@ -84,18 +84,19 @@ currently working on the [rsource project](https://github.com/rsource-open-sourc
   [![](https://shields.io/badge/node.js-05122A?logo=node.js&style=for-the-badge)](https://nodejs.org/)
   [![](https://shields.io/badge/typescript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
 
-  <img align="right" width="150" src="https://raw.githubusercontent.com/insyri/pfs/main/frontend/src/assets/directory_computer_150px.png"/>
+  <img align="right" width="150" src="https://raw.githubusercontent.com/insyri/pfs/main/frontend/src/assets/directory_computer.svg"/>
   
   ## [pfs](https://github.com/insyri/pfs)
   
   📂 Server for pasting, uploading, and downloading files.
   
   [![](https://shields.io/badge/Svelte-05122A?logo=svelte&style=for-the-badge)](https://svelte.dev/)
-  [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
   [![](https://shields.io/badge/Go-05122A?logo=go&style=for-the-badge)](https://go.dev/)
+  [![](https://shields.io/badge/Docker-05122A?logo=docker&style=for-the-badge)](https://docker.com/)
+  [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/)
+  [![](https://shields.io/badge/Tailwind%20CSS-05122A?logo=tailwindcss&style=for-the-badge)](https://tailwindcss.com/)
   [![](https://shields.io/badge/PostgreSQL-05122A?logo=postgresql&style=for-the-badge)](https://postgresql.org/)
   [![](https://shields.io/badge/Nginx-05122A?logo=nginx&logoColor=009639&style=for-the-badge)](https://nginx.org/)
-  [![](https://shields.io/badge/Docker-05122A?logo=docker&style=for-the-badge)](https://docker.com/)
   
   ## [simpleproxy](https://github.com/insyri/simpleproxy)
 
