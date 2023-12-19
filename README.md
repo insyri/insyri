@@ -22,6 +22,8 @@ I have been burnt out briefly, however, I am certain that pursuing advanced matt
   [![](https://shields.io/badge/Rust-05122A?logo=rust&logoColor=e33c24&style=for-the-badge)](https://rust-lang.org/)
   [![](https://shields.io/badge/Go-05122A?logo=go&style=for-the-badge)](https://go.dev/)
   [![](https://shields.io/badge/PowerShell%207-05122A?logo=powershell&style=for-the-badge)](https://docs.microsoft.com/en-us/powershell/)
+  [![](https://shields.io/badge/Python-05122A?logo=python&style=for-the-badge)](https://python.org/)
+  [![](https://shields.io/badge/Java-05122A?logo=oracle&logoColor=F80000&style=for-the-badge)](https://www.oracle.com/java/)
 </details>
 
 <details>
