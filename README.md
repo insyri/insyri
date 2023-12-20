@@ -7,21 +7,14 @@ I'm currently studying Linear Algebra (leading into computer graphics), theoreti
 and efficient memory management practices for system-critical (and not so critical) programs. I apply these bits of knowledge
 into some projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery to myself.
 
-## Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
+### Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
   
 For the 2023-24 winter season, I'm leading a project to display falling snow in the terminal with a focus on communcation,
 problem solving, and coordination. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
-we explain our thinking, decicion making process, and document every step of the program's development. 
+we explain our thinking, decicion making process, and document every step of the program's development.
 
-> The primary objective of this project is to highlight the advantage of understanding problems intuitively by
-breaking down complex concepts into simpler, more comprehensible components, allowing assessment to be more feasible and
-ensuring an intuition of the project to draw better connections, faster. Effectively communicating these concepts in a
-clear manner, devoid of excessive technical language, serves as evidence of comprehending the program's structure while
-also fostering more productive teamwork.
-
-As the president of the club, I'm leading the project here on GitLab: [insyri/snow](https://gitlab.com/insyri/snow/).
-
----
+As the president of the club, I'm leading the project on GitLab, extending this project to anyone who wishes to contribute
+See the extended description and objective of this program: [insyri/snow](https://gitlab.com/insyri/snow/).
 
 <details>
   <summary>🌌 software socials</summary>
