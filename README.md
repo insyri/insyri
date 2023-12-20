@@ -2,21 +2,17 @@
 
 I started programming seriously in 2021-2022, creating developer tools and small projects. From then, I've evolved to
 become more intentive and careful with the way I create programs, investigating optimizations heavily within my study.
-I'm currently interested in advanced mathematics and low-level programming language concepts, leveraging the manaul
-paradigm for efficiency and enabling me to create more complex and powerful programs.
 
 I'm currently studying Linear Algebra (leading into computer graphics), theoretical design systems and models of computation, 
 and efficient memory management practices for system-critical (and not so critical) programs. I apply these bits of knowledge
-into some projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery.
+into some projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery to myself.
 
 ## Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
   
-For the 2023-24 winter season, the computer science club of my school is leading a project to display snow in the terminal,
-but also taking a turn to planning coordination to understand these initally complex topics to others into simple and intuitive
-components. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
-I explain my thinking, decicion making process, and document every step of the program's development. 
+For the 2023-24 winter season, I'm leading a project to display falling snow in the terminal with a focus on communcation,
+problem solving, and coordination. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
+we explain our thinking, decicion making process, and document every step of the program's development. 
 
-*Excerpt from the project description.*
 > The primary objective of this project is to highlight the advantage of understanding problems intuitively by
 breaking down complex concepts into simpler, more comprehensible components, allowing assessment to be more feasible and
 ensuring an intuition of the project to draw better connections, faster. Effectively communicating these concepts in a
