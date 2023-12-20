@@ -9,6 +9,8 @@ into some projects of mine, but eventually, I plan to create programs specific t
 
 ### Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
   
+<img align="right" src="./assets/cscavatar.png" width="128"/>
+
 For the 2023-24 winter season, I'm leading a project to display falling snow in the terminal with a focus on communcation,
 problem solving, and coordination. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
 we explain our thinking, decicion making process, and document every step of the program's development.
