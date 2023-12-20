@@ -1,8 +1,31 @@
 :wave: Hey, I'm insyri, a highschool student who does software engineering as a hobby.
 
-I started programming seriously in 2021-2022, creating developer tools and small projects. In 2023, I'm learning lower-level concepts and frameworks that will enable me to create more complex and powerful programs, including game engines, multi-threaded applications, database management, and more.
+I started programming seriously in 2021-2022, creating developer tools and small projects. From then, I've evolved to
+become more intentive and careful with the way I create programs, investigating optimizations heavily within my study.
+I'm currently interested in advanced mathematics and low-level programming language concepts, leveraging the manaul
+paradigm for efficiency and enabling me to create more complex and powerful programs.
 
-I have been burnt out briefly, however, I am certain that pursuing advanced matters will bring me incredible interest to show my full potential.
+I'm currently studying Linear Algebra (leading into computer graphics), theoretical design systems and models of computation, 
+and efficient memory management practices for system-critical (and not so critical) programs. I apply these bits of knowledge
+into some projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery.
+
+## Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
+  
+For the 2023-24 winter season, the computer science club of my school is leading a project to display snow in the terminal,
+but also taking a turn to planning coordination to understand these initally complex topics to others into simple and intuitive
+components. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
+I explain my thinking, decicion making process, and document every step of the program's development. 
+
+*Excerpt from the project description.*
+> The primary objective of this project is to highlight the advantage of understanding problems intuitively by
+breaking down complex concepts into simpler, more comprehensible components, allowing assessment to be more feasible and
+ensuring an intuition of the project to draw better connections, faster. Effectively communicating these concepts in a
+clear manner, devoid of excessive technical language, serves as evidence of comprehending the program's structure while
+also fostering more productive teamwork.
+
+As the president of the club, I'm leading the project here on GitLab: [insyri/snow](https://gitlab.com/insyri/snow/).
+
+---
 
 <details>
   <summary>🌌 software socials</summary>
@@ -33,10 +56,14 @@ I have been burnt out briefly, however, I am certain that pursuing advanced matt
   <img align="right" width="150" src="https://avatars.githubusercontent.com/u/85522499?s=150&v=4" />
   
   ## [rsource](https://github.com/rsource-open-source)
-  
+
   rsource is a project aimed to create services around the Roblox StrafesNET ecosystem, including map development support, game unifying creations, and constructing transcendent experiences. View the full introductory showcase at the [rsource github organization](https://github.com/rsource-open-source) and at the [rsource website](https://rsource.community).
   
   [![](https://shields.io/badge/Roblox-05122A?logo=roblox&style=for-the-badge)](https://www.roblox.com/groups/10125873/rsource-community) [![](https://shields.io/badge/TypeScript-05122A?logo=typescript&style=for-the-badge)](https://www.typescriptlang.org/) [![](https://shields.io/badge/Lua-05122A?logo=lua&logoColor=2C2D72&style=for-the-badge)](https://www.lua.org/) [![](https://shields.io/badge/Luau-05122A?logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iNjAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA2MCA2MCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB4PSIxNS44NTc5IiB5PSI1LjUwNTEiIHdpZHRoPSI0MCIgaGVpZ2h0PSI0MCIgdHJhbnNmb3JtPSJyb3RhdGUoMTUgMTUuODU3OSA1LjUwNTEpIiBmaWxsPSIjMDBBMkZGIi8+PHJlY3QgeD0iNDAuNjQzOCIgeT0iMTcuMzIyOCIgd2lkdGg9IjgiIGhlaWdodD0iOCIgdHJhbnNmb3JtPSJyb3RhdGUoMTUgNDAuNjQzOCAxNy4zMjI4KSIgZmlsbD0id2hpdGUiLz48cGF0aCBkPSJNMTMuMjk4OSAzOS44NjM2TDE4LjE4MDQgNDEuMTcxNkwxNy44ODI4IDQyLjI4MjRMMTEuNjM1OSA0MC42MDg1TDE0LjM5NiAzMC4zMDc4TDE1Ljc2MTQgMzAuNjczN0wxMy4yOTg5IDM5Ljg2MzZaTTIzLjg0NDQgNDMuMDY4NEMyMy4xNzQ1IDQzLjUzMDkgMjIuMzQ2NyA0My42MzAxIDIxLjM2MSA0My4zNjZDMjAuNTQ1MSA0My4xNDc0IDE5Ljk4NTcgNDIuNzQ0NyAxOS42ODI5IDQyLjE1ODFDMTkuMzg2IDQxLjU2OCAxOS4zNTk3IDQwLjgwNzcgMTkuNjA0IDM5Ljg3NzNMMjAuOTM4NSAzNC44OTY4TDIyLjI0NzMgMzUuMjQ3NUwyMC45MjIzIDQwLjE5MjZDMjAuNjExNCA0MS4zNTI5IDIwLjkyNzYgNDIuMDU5NCAyMS44NzA5IDQyLjMxMjFDMjIuODcwNyA0Mi41ODAxIDIzLjYzNTYgNDIuMzg1NyAyNC4xNjU0IDQxLjcyODlMMjUuNjU3MyAzNi4xNjEyTDI2Ljk2NjEgMzYuNTExOUwyNC45MTUgNDQuMTY2NkwyMy42Njk5IDQzLjgzM0wyMy44NDQ0IDQzLjA2ODRaTTMxLjYzNTkgNDUuOTY3NUMzMS42MDA5IDQ1Ljc5NjQgMzEuNjExNiA0NS41MTExIDMxLjY2ODEgNDUuMTExN0MzMC44OTAzIDQ1LjU4MDcgMzAuMDc5MyA0NS43MDIxIDI5LjIzNTEgNDUuNDc1OEMyOC40ODA1IDQ1LjI3MzYgMjcuOTE3MSA0NC44OTUyIDI3LjU0NTEgNDQuMzQwNkMyNy4xNzkgNDMuNzgyNSAyNy4wODM4IDQzLjE3NTYgMjcuMjU5NSA0Mi41MkMyNy40NzMgNDEuNzIzIDI3Ljk0MDQgNDEuMTg2IDI4LjY2MTcgNDAuOTA5MUMyOS4zODg5IDQwLjYyODggMzAuMzAyIDQwLjYzNTkgMzEuNDAwOSA0MC45MzAzTDMyLjY3NDMgNDEuMjcxNkwzMi44MzU1IDQwLjY3MDJDMzIuOTU4IDQwLjIxMjcgMzIuOTE4NiAzOS44MTI5IDMyLjcxNzEgMzkuNDcwOEMzMi41MTY4IDM5LjEyMzkgMzIuMTUwMiAzOC44NzkxIDMxLjYxNzIgMzguNzM2M0MzMS4xNTAzIDM4LjYxMTIgMzAuNzI3MiAzOC42MjQyIDMwLjM0ODEgMzguNzc1M0MyOS45Njg5IDM4LjkyNjUgMjkuNzM0NCAzOS4xNjk1IDI5LjY0NDcgMzkuNTA0NEwyOC4zMjg4IDM5LjE1MThDMjguNDMxMiAzOC43Njk3IDI4LjY2NDIgMzguNDM3OSAyOS4wMjc4IDM4LjE1NjJDMjkuMzk3NCAzNy44NzEgMjkuODQxMSAzNy42ODY2IDMwLjM1ODkgMzcuNjAyOUMzMC44ODE0IDM3LjUyMDUgMzEuNDIxIDM3LjU1MzkgMzEuOTc3NSAzNy43MDNDMzIuODU5NSAzNy45MzkzIDMzLjQ5MSAzOC4zNDYxIDMzLjg3MjIgMzguOTIzNEMzNC4yNTQ2IDM5LjQ5NiAzNC4zNTE2IDQwLjE3MTYgMzQuMTYzMiA0MC45NTAyTDMzLjIxOTIgNDQuNDczM0MzMy4wMzA5IDQ1LjE3NjEgMzIuOTcwNyA0NS43NTkgMzMuMDM4OCA0Ni4yMjIxTDMzLjAwODQgNDYuMzM1M0wzMS42MzU5IDQ1Ljk2NzVaTTI5LjczMTMgNDQuMzg4QzMwLjE0MTYgNDQuNDk4IDMwLjU1OTIgNDQuNDk2MSAzMC45ODM5IDQ0LjM4MjRDMzEuNDA4NyA0NC4yNjg4IDMxLjc0OTEgNDQuMDY0MyAzMi4wMDUyIDQzLjc2ODlMMzIuNDI2IDQyLjE5ODNMMzEuNDAwMiA0MS45MjM1QzI5Ljc5NjYgNDEuNDkzOCAyOC44NjkgNDEuNzQ4MiAyOC42MTc2IDQyLjY4NjhDMjguNTA3NiA0My4wOTcxIDI4LjU1ODQgNDMuNDU0NSAyOC43NzAxIDQzLjc1ODlDMjguOTgxNyA0NC4wNjMzIDI5LjMwMjEgNDQuMjczIDI5LjczMTMgNDQuMzg4Wk0zOS43MTk5IDQ3LjMyMjNDMzkuMDUwMSA0Ny43ODQ4IDM4LjIyMjMgNDcuODgzOSAzNy4yMzY1IDQ3LjYxOThDMzYuNDIwNiA0Ny40MDEyIDM1Ljg2MTIgNDYuOTk4NiAzNS41NTg0IDQ2LjQxMTlDMzUuMjYxNSA0NS44MjE4IDM1LjIzNTIgNDUuMDYxNiAzNS40Nzk1IDQ0LjEzMTJMMzYuODE0IDM5LjE1MDZMMzguMTIyOCAzOS41MDEzTDM2Ljc5NzggNDQuNDQ2NUMzNi40ODY5IDQ1LjYwNjcgMzYuODAzMSA0Ni4zMTMyIDM3Ljc0NjQgNDYuNTY2QzM4Ljc0NjMgNDYuODMzOSAzOS41MTExIDQ2LjYzOTUgNDAuMDQwOSA0NS45ODI3TDQxLjUzMjggNDAuNDE1TDQyLjg0MTYgNDAuNzY1N0w0MC43OTA1IDQ4LjQyMDVMMzkuNTQ1NCA0OC4wODY4TDM5LjcxOTkgNDcuMzIyM1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&style=for-the-badge)](https://luau-lang.org/) 
+
+  ### Note
+  This project has been postponed and temporarily discontuned as the StrafesNET API, the services that this project is built on, has been out of commision for a long time, and has no anticipated reinstitution date.
+  
   
   <!--
   <img align="right" width="200" src="ProjectLogoLink" />
