@@ -3,20 +3,20 @@
 I started programming seriously in 2021-2022, creating developer tools and small projects. From then, I've evolved to
 become more intentive and careful with the way I create programs, investigating optimizations heavily within my study.
 
-I'm currently studying Linear Algebra (leading into computer graphics), theoretical design systems and models of computation, 
-and efficient memory management practices for system-critical (and not so critical) programs. I apply these bits of knowledge
-into some projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery to myself.
+I'm currently studying Linear Algebra (leading into computer graphics), models of computation, the history and philosophy of
+mathematics and efficient memory management practices for system-critical programs. I apply these bits of knowledge into some
+projects of mine, but eventually, I plan to create programs specific to these topics to prove my own mastery to myself.
 
-### Project Highlight: ☃ [insyri/snow](https://gitlab.com/insyri/snow/)
-  
-<img align="right" src="./assets/cscavatar.png" width="128"/>
+I'm currently the president of computer science club at my school, providing an introduction to programming architecture and
+software tooling by developing mini-programs (like Michele Pratusevich's
+[Terminus](https://web.mit.edu/mprat/Public/web/Terminus/Web/main.html)) and encouraging students to go out and make
+something they've always wanted to make— you wanna make a game on Roblox? Go for it, I'll help you find resources.
 
-For the 2023-24 winter season, I'm leading a project to display falling snow in the terminal with a focus on communcation,
-problem solving, and coordination. Under the [issues](https://gitlab.com/insyri/snow/-/issues/?sort=created_asc&state=all&first_page_size=20),
-we explain our thinking, decicion making process, and document every step of the program's development.
-
-As the president of the club, I'm leading the project on GitLab, extending this project to anyone who wishes to contribute
-See the extended description and objective of this program: [insyri/snow](https://gitlab.com/insyri/snow/).
+Before the summer, I showed just how approachable computer science is with the right mindset; from building a simple
+[snow program](https://gitlab.com/insyri/snow) (with written [assessments](https://gitlab.com/insyri/snow/-/issues/1) and 
+[proposals](https://gitlab.com/insyri/snow/-/issues/2) of the code!) to hosting an (incomplete) [course](https://github.com/insyri/csftc2024)
+on learning software development. Over the summer, I'm teaching students the Kotlin programming language. When we come back,
+we'll be building an app to save students from missing their buses at school.
 
 <details>
   <summary>🌌 software socials</summary>
